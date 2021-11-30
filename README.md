@@ -1,8 +1,7 @@
 ## Hello there!
 
-My name is **Mikołaj** and hopefully there will be some information about me soon!
+My name is **Mikołaj** and I am a huge fan of Mall Grab, check these bangers:
 
-As you may already know, judging by my avatar, I am a huge fan of Mall Grab, check these bangers:
 * [Mall Grab | Boiler Room x Glitch Festival Day 1 - TAKE DOWN ENEMIES](http://youtu.be/4mtfCl5J78c?t=3418)
 * [Mall Grab | Boiler Room x Glitch Festival Day 1 - SUNFLOWER](http://youtu.be/4mtfCl5J78c?t=3670)
 * [Mall Grab | Sonar 2019 - DISCONNECT](http://youtu.be/irTqcOFRK_o?t=592)
