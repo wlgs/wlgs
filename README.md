@@ -1,5 +1,3 @@
-## Hello there!
-
 My name is **Mikołaj** and I am a huge fan of Mall Grab, check these bangers:
 
 * [Mall Grab | Boiler Room x Glitch Festival Day 1 - TAKE DOWN ENEMIES](http://youtu.be/4mtfCl5J78c?t=3418)
