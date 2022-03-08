@@ -1,4 +1,4 @@
-My name is **Mikołaj** and I am an aspiring developer, currently exploring many roads of CS.
+My name is **Mikołaj** and I am an aspiring developer, currently exploring many roads of Computer Science.
 
 I have worked with
 
@@ -43,7 +43,7 @@ I want to learn
 
 ---
 
-I am a huge fan of Mall Grab, check these bangers:
+My profile picture is a photo of young Mall Grab, check his bangers:
 
 * [Mall Grab | Boiler Room x Glitch Festival Day 1 - TAKE DOWN ENEMIES](http://youtu.be/4mtfCl5J78c?t=3418)
 * [Mall Grab | Boiler Room x Glitch Festival Day 1 - SUNFLOWER](http://youtu.be/4mtfCl5J78c?t=3670)
