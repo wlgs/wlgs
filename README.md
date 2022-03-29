@@ -31,6 +31,7 @@ I want to learn
 <a href="https://www.electronjs.org/" title="Electron"><img src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg" alt="Electron" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
+<a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" alt="Docker" width="21px" height="21px"></a>
 
 <!-- 
 <a href="#choose-pinned-repositories">
