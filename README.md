@@ -3,7 +3,6 @@
 [![Gmail](https://img.shields.io/badge/-wielgosmikolaj@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wielgosmikolaj@gmail.com "Send me an email")
 [![Instagram](https://img.shields.io/badge/-wielgos_-DD2A7B?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wielgos_/ "See my Instagram account")
 [![Telegram](https://img.shields.io/badge/-WLGS9999-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/WLGS9999 "Add me on Telegram")
-[![Views](https://komarev.com/ghpvc/?username=wlgs&color=blue)](https://github.com/wlgs "Views")
 
 My name is **Mikołaj** and I am an aspiring developer, currently exploring many roads of Computer Science.
 
