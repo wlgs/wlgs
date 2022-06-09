@@ -6,7 +6,7 @@ My profile picture is a photo of young Mall Grab, check his bangers:
 * [Mall Grab | Sonar 2019 - BLOOD FLOOD](http://youtu.be/irTqcOFRK_o?t=2210)
 * [Mall Grab | Rinse x SCR - BREATHING](http://youtu.be/RuK-ST4PS74?t=1715)
 
-Also, some cherry-picks:
+Also, some non-mg cherry-picks:
 
 * [VTSS | HÖR BERLIN - LSDXOXO SICK B**** MASHUP](http://youtu.be/6RjJFoGt0y4?t=2138)
 * [Torrentz.Eu | Boiler Room x Wixapol - WELCOME](http://youtu.be/y57KgeCwukc?t=111)
