@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Miko%C5%82aj%20Wielgos-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikolaj-wielgos/ "Find me on LinkedIn")
 [![Instagram](https://img.shields.io/badge/-wielgos_-DD2A7B?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wielgos_/ "See my Instagram account")
 [![Telegram](https://img.shields.io/badge/-WLGSx-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/WLGSx "Add me on Telegram")
+[![Discord](https://img.shields.io/badge/-WLGS%234752_-7289DA?style=flat&logo=Discord&logoColor=white)](WLGS#4752)
 
 My name is **Mikołaj** and I am an aspiring developer, currently exploring many roads of Computer Science.
 
