@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/badge/-contact%40wlgs.dev_-BB001B?style=flat&logo=Gmail&logoColor=white)](mailto:contact@wlgs.dev)
 [![Instagram](https://img.shields.io/badge/-wielgos_-DD2A7B?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wielgos_/ "See my Instagram account")
 [![Telegram](https://img.shields.io/badge/-WLGSx-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/WLGSx "Add me on Telegram")
-[![Discord](https://img.shields.io/badge/-WLGS%234752_-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.com/app)
+[![Discord](https://img.shields.io/badge/-%40wlgs_-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.com/app)
 
 My name is **Mikołaj** and I am an aspiring developer, currently exploring many roads of Computer Science.
 
@@ -28,13 +28,13 @@ I have worked with
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
+<a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="21px" height="21px"></a>
+<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a>
 
 I am learning
 
-* <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
-<a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="21px" height="21px"></a>
-<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a>
-<a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
+* <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
 <a href="https://www.electronjs.org/" title="Electron"><img src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg" alt="Electron" width="21px" height="21px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" alt="Docker" width="21px" height="21px"></a>
