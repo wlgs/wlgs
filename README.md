@@ -1,6 +1,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Miko%C5%82aj%20Wielgos-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikolaj-wielgos/ "Find me on LinkedIn")
-[![Gmail](https://img.shields.io/badge/-contact%40wlgs.dev_-BB001B?style=flat&logo=Gmail&logoColor=white)](mailto:contact@wlgs.dev)
+[![Gmail](https://img.shields.io/badge/-mikolaj%40wlgs.dev_-BB001B?style=flat&logo=Gmail&logoColor=white)](mailto:mikolaj@wlgs.dev)
 [![Telegram](https://img.shields.io/badge/-WLGSx-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/WLGSx "Add me on Telegram")
 [![Discord](https://img.shields.io/badge/-%40wlgs_-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.com/app)
 
