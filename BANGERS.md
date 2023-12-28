@@ -25,5 +25,6 @@ Also, some non-mg cherry-picks:
 * [Marlon Hoffstadt | Boiler room: Melbourne - Sandstorm](https://youtu.be/RPaZvCNd6P4?si=sALr6XI5PXJxl1yv&t=1428)
 * [Marlon Hoffstadt | Boiler room: Melbourne - It's That Time](https://youtu.be/RPaZvCNd6P4?si=zYwc8QZTEsftK4NL&t=2830)
 * [FUNK TRIBU | Intercell x BCCO - All of it](https://youtu.be/JnbHbfhW48A?si=-1Ap5t2ZZOV50pSV&t=3407)
+* [FUNK TRIBU | Intercell x BCCO - Platinum](https://youtu.be/JnbHbfhW48A?si=WlKdctcIa7BE-bk4&t=3926)
 
 [positive energy forever 🐨](https://github.com/wlgs)
