@@ -28,5 +28,6 @@ Also, some non-mg cherry-picks:
 * [FUNK TRIBU | Intercell x BCCO - Platinum](https://youtu.be/JnbHbfhW48A?si=WlKdctcIa7BE-bk4&t=3926)
 * [FUNK TRIBU | Intercell x BCCO - Traffic](https://youtu.be/JnbHbfhW48A?si=uk02h85BvPWJLy51&t=4939)
 * [FRANCK | Intercell x Charlie Sparks & Parfait Invite - Scotland Jus](https://youtu.be/19gYbpiHwy4?si=ecU2ZBUvdFMRBUKP&t=3423)
+* [FRANCK | Intercell x Charlie Sparks & Parfait Invite - Hear the sound](https://youtu.be/19gYbpiHwy4?si=t6saDn1CygQZGZne&t=5236)
 
 [positive energy forever 🐨](https://github.com/wlgs)
