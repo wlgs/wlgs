@@ -30,5 +30,6 @@ Also, some non-mg cherry-picks:
 * [FRANCK | Intercell x Charlie Sparks & Parfait Invite - Scotland Jus](https://youtu.be/19gYbpiHwy4?si=ecU2ZBUvdFMRBUKP&t=3423)
 * [FRANCK | Intercell x Charlie Sparks & Parfait Invite - Hear the sound](https://youtu.be/19gYbpiHwy4?si=t6saDn1CygQZGZne&t=5236)
 * [Sammy Virji | DJ Mag HQ - It Goes Like (Na Na Na) (ID Remix)](https://youtu.be/sLcvUGn_4VM?si=TcHJEXV1xgr0Ndd7&t=1464)
+* [Fisher | OUTSIDE LANDS 2023 - Somebody that I used to know (Sante Sansone)](https://youtu.be/uQ588C9Ecp4?si=dMUwzg2FeRqMubDP&t=2627)
 
 [positive energy forever 🐨](https://github.com/wlgs)
