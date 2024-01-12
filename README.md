@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/-WLGSx-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/WLGSx "Add me on Telegram")
 [![Discord](https://img.shields.io/badge/-%40wlgs_-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.com/app)
 
-My name is **Mikołaj** and I am an aspiring developer, currently exploring many roads of Computer Science.
+Hi! I'm **Mikołaj** 😊 - currently exploring many roads of Computer Science. [positive energy forever 🐨](https://github.com/wlgs/wlgs/blob/main/BANGERS.md)
 
 I have worked with
 
@@ -30,13 +30,9 @@ I have worked with
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="21px" height="21px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a>
-
-I am learning
-
-* <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
-<a href="https://www.electronjs.org/" title="Electron"><img src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg" alt="Electron" width="21px" height="21px"></a>
-<a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
+<a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" alt="Docker" width="21px" height="21px"></a>
+
 
 <!-- 
 <a href="#choose-pinned-repositories">
@@ -46,11 +42,6 @@ I am learning
 <!-- <a href="#choose-pinned-repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlgs&theme=onedark&langs_count=7&hide_title=true&hide=cmake,python" />
 </a> -->
-
----
-
-[positive energy forever 🐨](https://github.com/wlgs/wlgs/blob/main/BANGERS.md)
-
 
 
 
