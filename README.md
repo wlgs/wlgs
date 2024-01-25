@@ -4,6 +4,8 @@
 [![Telegram](https://img.shields.io/badge/-WLGSx-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/WLGSx "Add me on Telegram")
 [![Discord](https://img.shields.io/badge/-%40wlgs_-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.com/app)
 
+[positive energy forever 🐨](https://github.com/wlgs/wlgs/blob/main/BANGERS.md)
+<!-- 
 Hi! I'm **Mikołaj** 😊 - currently exploring many roads of Computer Science. [positive energy forever 🐨](https://github.com/wlgs/wlgs/blob/main/BANGERS.md)
 
 I have worked with
@@ -32,7 +34,7 @@ I have worked with
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a>
 <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" alt="Docker" width="21px" height="21px"></a>
-
+-->
 
 <!-- 
 <a href="#choose-pinned-repositories">
