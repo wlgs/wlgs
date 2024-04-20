@@ -32,6 +32,6 @@ Also, some non-mg cherry-picks:
 * [Sammy Virji | DJ Mag HQ - It Goes Like (Na Na Na) (ID Remix)](https://youtu.be/sLcvUGn_4VM?si=TcHJEXV1xgr0Ndd7&t=1464)
 * [Fisher | OUTSIDE LANDS 2023 - Somebody that I used to know (Sante Sansone)](https://youtu.be/uQ588C9Ecp4?si=dMUwzg2FeRqMubDP&t=2627)
 * [Fisher | OUTSIDE LANDS 2023 - Losing it](https://youtu.be/uQ588C9Ecp4?si=zHAycvzX_3K9NFuS&t=3812)
-* [FUNK TRIBU | Intercell x BCCO - ID](https://youtu.be/JnbHbfhW48A?si=0R6c8yjo63Jz54Cd&t=4249)
+* [FUNK TRIBU | Intercell x BCCO - Put It Down](https://youtu.be/JnbHbfhW48A?si=0R6c8yjo63Jz54Cd&t=4249)
 
 [positive energy forever 🐨](https://github.com/wlgs)
