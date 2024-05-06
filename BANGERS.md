@@ -33,5 +33,10 @@ Also, some non-mg cherry-picks:
 * [Fisher | OUTSIDE LANDS 2023 - Somebody that I used to know (Sante Sansone)](https://youtu.be/uQ588C9Ecp4?si=dMUwzg2FeRqMubDP&t=2627)
 * [Fisher | OUTSIDE LANDS 2023 - Losing it](https://youtu.be/uQ588C9Ecp4?si=zHAycvzX_3K9NFuS&t=3812)
 * [FUNK TRIBU | Intercell x BCCO - Put It Down](https://youtu.be/JnbHbfhW48A?si=0R6c8yjo63Jz54Cd&t=4249)
+* [Bad Boombox b2b FUNK TRIBU | Intercell Indoor 2024 - In Berlin we milly rock](https://youtu.be/-he3tTOgUho?si=d4cM8jF-NhQfIG87&t=2216)
+* [Bad Boombox b2b FUNK TRIBU | Intercell Indoor 2024 - ID](https://youtu.be/-he3tTOgUho?si=Ndp1sMxQvn9mGAF2&t=3490)
+* [Bad Boombox b2b FUNK TRIBU | Intercell Indoor 2024 - Vilchezz](https://youtu.be/-he3tTOgUho?si=lGA06-5Tsz8v32qD&t=4288)
+* [Bad Boombox b2b FUNK TRIBU | Intercell Indoor 2024 - Gucci](https://youtu.be/-he3tTOgUho?si=0UppEoevXyTyfFLL&t=6063)
+* [Bad Boombox b2b FUNK TRIBU | Intercell Indoor 2024 - All of it](https://youtu.be/-he3tTOgUho?si=9sGPE9A1LsSHLkU6&t=6910)
 
 [positive energy forever 🐨](https://github.com/wlgs)
