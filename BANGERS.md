@@ -38,5 +38,9 @@ Also, some non-mg cherry-picks:
 * [Bad Boombox b2b FUNK TRIBU | Intercell Indoor 2024 - Vilchezz](https://youtu.be/-he3tTOgUho?si=lGA06-5Tsz8v32qD&t=4288)
 * [Bad Boombox b2b FUNK TRIBU | Intercell Indoor 2024 - Gucci](https://youtu.be/-he3tTOgUho?si=0UppEoevXyTyfFLL&t=6063)
 * [Bad Boombox b2b FUNK TRIBU | Intercell Indoor 2024 - All of it](https://youtu.be/-he3tTOgUho?si=9sGPE9A1LsSHLkU6&t=6910)
+* [FUNK TRIBU | Boiler Room: Ghent - Platinum](https://youtu.be/cmUov7X5Pjc?si=xsErvC8qKih89fsT&t=480)
+* [MALUGI | Boiler Room: Ghent - Drop it down](https://youtu.be/eRaU29KuhLE?si=cqn7UTwHwAXV6wol&t=2962)
+* [MALUGI | Boiler Room: Ghent - A little closer](https://youtu.be/eRaU29KuhLE?si=_umQOcPMzGYF9reK&t=1206)
+* [TRYM | Boiler Room Manchester: Teletech - Praise the lord](https://www.youtube.com/live/8SCM_YeNOos?si=2jRnUZAmFti_ImDb&t=3170)
 
 [positive energy forever 🐨](https://github.com/wlgs)
