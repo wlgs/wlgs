@@ -42,5 +42,7 @@ Also, some non-mg cherry-picks:
 * [MALUGI | Boiler Room: Ghent - Drop it down](https://youtu.be/eRaU29KuhLE?si=cqn7UTwHwAXV6wol&t=2962)
 * [MALUGI | Boiler Room: Ghent - A little closer](https://youtu.be/eRaU29KuhLE?si=_umQOcPMzGYF9reK&t=1206)
 * [TRYM | Boiler Room Manchester: Teletech - Praise the lord](https://www.youtube.com/live/8SCM_YeNOos?si=2jRnUZAmFti_ImDb&t=3170)
+* [EARGASM GOD | Tegendraads Festival 2024 - Elements 2](https://youtu.be/w0gV3JysydA?si=ZKBgStAgTpSua77C&t=1935)
+* [EARGASM GOD | Tegendraads Festival 2024 - Diskotéka Avantgarde](https://youtu.be/w0gV3JysydA?si=ZBozXenmeN8mlB4X&t=2926)
 
 [positive energy forever 🐨](https://github.com/wlgs)
