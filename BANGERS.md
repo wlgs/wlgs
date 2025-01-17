@@ -44,5 +44,7 @@ Also, some non-mg cherry-picks:
 * [TRYM | Boiler Room Manchester: Teletech - Praise the lord](https://www.youtube.com/live/8SCM_YeNOos?si=2jRnUZAmFti_ImDb&t=3170)
 * [EARGASM GOD | Tegendraads Festival 2024 - Elements 2](https://youtu.be/w0gV3JysydA?si=ZKBgStAgTpSua77C&t=1935)
 * [EARGASM GOD | Tegendraads Festival 2024 - Diskotéka Avantgarde](https://youtu.be/w0gV3JysydA?si=ZBozXenmeN8mlB4X&t=2926)
+* [¥ØU$UK€ ¥UK1MAT$U | Boiler Room Tokyo - Locked Club](https://youtu.be/T1tcUfUhR5U?si=jxGkWZnET973liya&t=1190)
+* [riria | Boiler Room Tokyo - LOW ID](https://youtu.be/Fa8LQLy4C5A?si=OmsxCisfJ16ZTcaD&t=1073)
 
 [positive energy forever 🐨](https://github.com/wlgs)
