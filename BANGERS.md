@@ -46,6 +46,8 @@ Also, some non-mg cherry-picks:
 * [EARGASM GOD | Tegendraads Festival 2024 - Diskotéka Avantgarde](https://youtu.be/w0gV3JysydA?si=ZBozXenmeN8mlB4X&t=2926)
 * [¥ØU$UK€ ¥UK1MAT$U | Boiler Room Tokyo - Kuliki](https://youtu.be/T1tcUfUhR5U?si=jxGkWZnET973liya&t=1190)
 * [riria | Boiler Room Tokyo - LOW ID](https://youtu.be/Fa8LQLy4C5A?si=OmsxCisfJ16ZTcaD&t=1073)
-* [INDECORUM | HÖR - Destination Thunderdome](https://www.youtube.com/live/AhFsXYTkWmc?si=KkujyBOJNgTn9fO_&t=3259)
+* [INDECORUM | HÖR - Destination Thunderdome](https://www.youtube.com/live/AhFsXYTkWmc?si=KkujyBOJNgTn9fO_&t=3220)
+* [bullet tooth | Boiler Room SYSTEM: Bristol - ID](https://youtu.be/l3dy_6e-fSs?si=1BeWry3opRXiF91s&t=3092)
+* [Funk Tribu b2b Pegassi | Intercell Klokgebouw  - Crazy Kikker](https://youtu.be/VTfAxGkQi0o?si=GyRglcTl1wcRo_lo&t=3954)
 
 [positive energy forever 🐨](https://github.com/wlgs)
